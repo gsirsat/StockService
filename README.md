@@ -1,5 +1,5 @@
 # StockService
-Application that displays simulated stock prices ticking.
+Application will display simulated stock prices ticking.
 
 1) In order to run this demo, Open Visual Studio 2019 as Admin, then open the solution from folder "StockTickerHost/StockTickerHost.sln". Make sure "StockLibraryHost" project is set as a StartUp Project and then press start the service.
 
